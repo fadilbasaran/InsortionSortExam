@@ -1,3 +1,3 @@
-# Insortion Sort Example
+# Insortion Sort 
 
 ` `
